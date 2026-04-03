@@ -55,4 +55,4 @@ We chose **Recharts** for its declarative nature and seamless integration with R
    ```
 
 ---
-Built with ❤️ using Google AI Studio Build.
+
